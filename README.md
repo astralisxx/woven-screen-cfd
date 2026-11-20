@@ -5,7 +5,7 @@
 Fine woven screens serve as filters, catalyst gauzes and flow straighteners. Their pressure drop and how much of a
 reacting species they remove are normally taken from correlations fitted to coarser screens. This study resolves the
 flow around the individual wires of a 48 µm screen, from creeping flow to Re_d of about 15, and checks those
-correlations against it. The problem was posed by Asst. Prof. Dr. Necip Berker Üner (METU Chemical Engineering).
+correlations against it.
 
 ## Introduction
 
